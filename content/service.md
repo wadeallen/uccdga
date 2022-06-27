@@ -1,7 +1,7 @@
 ---
 title: "Who We Are"
 description: "The mission and vision of The United Church"
-bg_image: "images/church-outside.jpg"
+bg_image: "images/stained-blue.jpg"
 layout: "service"
 draft: false
 
@@ -47,7 +47,7 @@ featured_service:
 service:
   enable : true
   title : "Who We are at The United Church"
-  description : "The United Church is a strong community of Christians who seek to glorify God. </br> We seek to do this in a number of ways."
+  description : "The United Church is a community of Christians who seek to glorify God. </br> We seek to do this in a number of ways."
   service_item:
     # service item loop
     - icon : fas fa-praying-hands #https://fontawesome.com/v5.15/icons

@@ -1,7 +1,7 @@
 ---
 title: "Family Ministries"
 description: "Ministry for Children, Youth and Adults at The United Church"
-bg_image: "images/church-outside.jpg"
+bg_image: "images/boy-jesus.jpg"
 layout: "service"
 draft: false
 

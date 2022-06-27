@@ -1,7 +1,7 @@
 ---
 title: "About The United Church"
 description: "this is meta description"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/empty-tomb.jpg"
 layout: "about"
 draft: false
 
