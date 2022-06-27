@@ -28,8 +28,8 @@ hasChildren = true
 
   [[main]]
   parent = "More"
-  name = "Service"
-  url = "service/"
+  name = "Family Ministries"
+  url = "family/"
   weight = 1
 
   [[main]]

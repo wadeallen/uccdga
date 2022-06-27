@@ -1,7 +1,7 @@
 ---
-title: "Service"
-description: "this is meta description"
-bg_image: "images/feature-bg.jpg"
+title: "Family Ministries"
+description: "Ministry for Children, Youth and Adults at The United Church"
+bg_image: "images/church-outside.jpg"
 layout: "service"
 draft: false
 
@@ -46,49 +46,48 @@ featured_service:
 ############################# Service ###############################
 service:
   enable : true
-  title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  title : "Who We are at The United Church"
+  description : "The United Church is a strong community of Christians who seek to glorify God. </br> We seek to do this in a number of ways."
   service_item:
     # service item loop
-    - icon : ion-coffee #https://fontawesome.com/v5.15/icons
-      name: Branding
+    - icon : fas fa-praying-hands #https://fontawesome.com/v5.15/icons
+      name: Worship
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ion-compass #https://fontawesome.com/v5.15/icons
-      name: Web Design
+    - icon : fas fa-seedling #https://fontawesome.com/v5.15/icons
+      name: Grow
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ion-image #https://fontawesome.com/v5.15/icons
-      name: App Design
+    - icon : fas fa-hands-helping #https://fontawesome.com/v5.15/icons
+      name: Reach
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ion-bug #https://fontawesome.com/v5.15/icons
-      name: Start Up
+    - icon : fas fa-people-carry #https://fontawesome.com/v5.15/icons
+      name: Care
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
-    # service item loop
-    - icon : ion-headphone #https://fontawesome.com/v5.15/icons
-      name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # # service item loop
+    # - icon : fas fa-headphones-alt #https://fontawesome.com/v5.15/icons
+    #   name: Logo Design
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
-    # service item loop
-    - icon : fas fa-leaf #https://fontawesome.com/v5.15/icons
-      name: Development
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # # service item loop
+    # - icon : fas fa-leaf #https://fontawesome.com/v5.15/icons
+    #   name: Development
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
-    # service item loop
-    - icon : ion-planet #https://fontawesome.com/v5.15/icons
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # # service item loop
+    # - icon : fas fa-globe-asia #https://fontawesome.com/v5.15/icons
+    #   name: Brand Identity
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
-    # service item loop
-    - icon : ion-earth #https://fontawesome.com/v5.15/icons
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # # service item loop
+    # - icon : fas fa-feather #https://fontawesome.com/v5.15/icons
+    #   name: Brand Identity
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
 ############################# call to action #################################
 cta:
