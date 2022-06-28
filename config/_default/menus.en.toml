@@ -22,7 +22,12 @@ url = "blog/"
 weight = 4
 
 [[main]]
+name = "Calendar"
+url = "https://uccdga.churchcenter.com/calendar"
 weight = 5
+
+[[main]]
+weight = 6
 name = "More"
 hasChildren = true
 
@@ -41,7 +46,7 @@ hasChildren = true
 [[main]]
 name = "Contact"
 url = "contact/"
-weight = 6
+weight = 7
 
 
 # footer menu
