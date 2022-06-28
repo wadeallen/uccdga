@@ -27,7 +27,7 @@
             </div>
           </div>
           <div class="row shuffle-wrapper">
-            {{ range .Data.Pages -}}
+            {{ range sort .Data.Pages ".Weight" -}}
             {{ $cats := .Params.category -}}
             {{ if not (reflect.IsSlice $cats) }}{{ $cats = slice ($cats) }}{{ end -}}
             {{ $cats = apply $cats "urlize" "." | jsonify -}}
@@ -35,12 +35,14 @@
               {{ if isset .Params "image" -}}
               <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
               {{- end }}
+              <a class="h3" href="{{ .RelPermalink }}">
               <div class="portfolio-hover">
                 <div class="portfolio-content">
-                  <a class="h3" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                  <h3>{{ .Title }}</h3>
                   <p>{{ .Params.description }}</p>
                 </div>
               </div>
+              </a>
             </div>
             {{- end }}
           </div>

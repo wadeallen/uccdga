@@ -14,20 +14,9 @@
       </div>
       <div class="col-md-4">
         <div class="project-details">
-          <h4>Project Details</h4>
-          <ul>
-            {{ range .Params.information }}
-            <li><span>{{ .label }} :</span> <strong>{{ .info | markdownify }}</strong></li>
-            {{ end }}
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12">
-        <div class="project-content mt-50">
+          <h3>{{ .Title }}</h3>
+          <h4>{{ .Description }}</h4>
           {{ .Content }}
-        </div>
       </div>
     </div>
   </div>
