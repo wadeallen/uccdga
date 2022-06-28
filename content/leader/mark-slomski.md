@@ -4,7 +4,7 @@ description: "Youth Director"
 weight: 3
 draft: false
 image : "images/people/wade-allen.jpg"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/stained-blue.jpg"
 category: "Staff"
 ---
 

@@ -4,7 +4,7 @@ description: "Family Ministries Director"
 weight: 2
 draft: false
 image : "images/people/wade-allen.jpg"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/stained-blue.jpg"
 category: "Staff"
 ---
 
