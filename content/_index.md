@@ -8,22 +8,29 @@ banner:
   content: "Summer Worship Each Sunday at 9:30 AM"
   button:
     enable: true
-    label: "Learn More About Us"
-    link: "about/"
+    label: "Worship at The United Church"
+    link: "worship/"
 
 ############################# About #################################
 about:
-  enable: false
-  title: "About Us"
+  enable : true
+  title : "About The United Church"
   description: "A vital part of the community of Canandaiga for generations, The United Church seeks to glorify God as we worship, grow, reach, and care."
-  content: "The United Church connects to two denominations and other local and national ministries. Through its Mission Budget (which is separate from the Operating Budget), the United Church gives over a third of its yearly offerings to ministries outside of its walls. As a member of two denominations, The United Church is unique. It retains language and organizational structure from both denominations. Membership in the United Church can be either denomination (Presbyterian or Baptist) or neither denomination (United)."
-  image: "images/church-outside.jpg"
+  content: "The United Church connects to two denominations and other local and national ministries. Through its Mission Budget (which is separate from the Operating Budget), the United Church gives over a third of its yearly offerings to ministries outside of its walls. 
+
+
+   As a member of two denominations, The United Church is unique. It retains language and organizational structure from both denominations. Membership in the United Church can be either denomination (Presbyterian or Baptist) or neither denomination (United)."
+  image : "images/church-building.png"
+  button:
+    enable: true
+    label: "Read More About The United Church"
+    link: "about/"
 
 
 ######################### Portfolio ###############################
 portfolio:
-  enable: true
-  bg_image: "images/outside-church.png"
+  enable: false
+  bg_image: "images/feature-bg.jpg"
   title: "About"
   content: " A vital part of the community of Canandaiga for generations, The United Church seeks to glorify God as we worship, grow, reach, and care.
 
@@ -53,9 +60,20 @@ cta:
     label: "Read About Our History"
     link: "history/"
 
+############################ worship times ###########################
+times:
+  enable: true
+  bg_image: "images/empty-tomb.jpg"
+  title: "Worship Times"
+  content: "Join us for Summer Worship at 9:30 AM each Sunday"
+  button:
+    enable: true
+    label: "Read More About Worship"
+    link: "worship/"
+
 ############################# Funfacts ###############################
 funfacts:
-  enable: true
+  enable: false
   title: "Join Us"
   description: "Join us for summer worship each Sunday at 9:30 AM from Memorial Day to Labor Day<br><br>We gather in two services the rest of the year (8:45 AM and 11 AM)."
   funfact_item:
