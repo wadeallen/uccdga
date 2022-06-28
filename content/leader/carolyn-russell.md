@@ -1,11 +1,11 @@
 ---
-title: "Wade Allen"
-description: "Pastor"
-weight: 1
+title: "Carolyn Russell"
+description: "Church Secretary and Financial Secretary"
+weight: 5
 draft: false
-image : "images/people/wade-allen.jpg"
+image : "images/people/carolyn-russell.jpg"
 bg_image: "images/stained-blue.jpg"
-category: [ "Staff", "Pastor" ]
+category: [ "Staff"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

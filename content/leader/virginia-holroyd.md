@@ -1,11 +1,11 @@
 ---
-title: "Mark Slomski"
-description: "Youth Director"
-weight: 3
+title: "Virginia Holroyd"
+description: "Special Member Visitation Director"
+weight: 4
 draft: false
-image : "images/people/wade-allen.jpg"
+image : "images/people/virginia-holroyd.jpg"
 bg_image: "images/stained-blue.jpg"
-category: "Staff"
+category: [ "Staff", "Director" ]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

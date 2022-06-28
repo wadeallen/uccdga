@@ -3,9 +3,9 @@ title: "Deb Marshall"
 description: "Family Ministries Director"
 weight: 2
 draft: false
-image : "images/people/wade-allen.jpg"
+image : "images/people/deb-marshall.jpg"
 bg_image: "images/stained-blue.jpg"
-category: "Staff"
+category: [ "Staff", "Director" ]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

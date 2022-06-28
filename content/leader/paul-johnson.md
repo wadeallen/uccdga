@@ -1,11 +1,11 @@
 ---
-title: "Wade Allen"
-description: "Pastor"
-weight: 1
+title: "Paul Johnson"
+description: "Adult Ministries Director"
+weight: 3
 draft: false
-image : "images/people/wade-allen.jpg"
+image : "images/people/paul-johnson.jpg"
 bg_image: "images/stained-blue.jpg"
-category: [ "Staff", "Pastor" ]
+category: [ "Staff", "Director" ]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
