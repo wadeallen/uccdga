@@ -16,10 +16,10 @@ about:
   enable : true
   title : "About The United Church"
   description: "A vital part of the community of Canandaiga for generations, The United Church seeks to glorify God as we worship, grow, reach, and care."
-  content: "The United Church connects to two denominations and other local and national ministries. Through its Mission Budget (which is separate from the Operating Budget), the United Church gives over a third of its yearly offerings to ministries outside of its walls. 
+  content: "The United Church is a wonderful church family with rich traditions and history in the community of Canandaigua.
 
 
-   As a member of two denominations, The United Church is unique. It retains language and organizational structure from both denominations. Membership in the United Church can be either denomination (Presbyterian or Baptist) or neither denomination (United)."
+  We hope you will visit and learn more about our congregation. Please take a few minutes to read more about who we are and how we understand what it means to live out our faith."
   image : "images/church-building.png"
   button:
     enable: true
@@ -32,7 +32,7 @@ portfolio:
   enable: false
   bg_image: "images/feature-bg.jpg"
   title: "About"
-  content: " A vital part of the community of Canandaiga for generations, The United Church seeks to glorify God as we worship, grow, reach, and care.
+  content: " A vital part of the community of Canandaigua for generations, The United Church seeks to glorify God as we worship, grow, reach, and care.
 
 
   The United Church connects to two denominations and other local and national ministries. Through its Mission Budget (which is separate from the Operating Budget), the United Church gives over a third of its yearly offerings to ministries outside of its walls. As a member of two denominations, The United Church is unique. It retains language and organizational structure from both denominations. Membership in the United Church can be either denomination (Presbyterian or Baptist) or neither denomination (United).
@@ -73,29 +73,37 @@ times:
 
 ############################# Funfacts ###############################
 funfacts:
-  enable: false
-  title: "Join Us"
-  description: "Join us for summer worship each Sunday at 9:30 AM from Memorial Day to Labor Day<br><br>We gather in two services the rest of the year (8:45 AM and 11 AM)."
+  enable: true
+  title: "Longstanding Congregation in Canandaigua"
+  description: "The United Church has a long history in the community of Canandaigua. 
+
+
+  In a world that is quicky changing, The United Church values the sability and traditions it has practiced for generations."
   funfact_item:
   # funfacts item loop
-  - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
-    name: "Cups Of Coffee"
-    count: "99"
+  - icon: "fas fa-church" #https://fontawesome.com/v5.15/icons
+    name: "Years as a Baptist Church"
+    count: "186"
 
   # funfacts item loop
-  - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name: "Article Written"
-    count: "45"
+  - icon: "fas fa-church" #https://fontawesome.com/v5.15/icons
+    name: "Years as a Presbyterian Church"
+    count: "150"
 
   # funfacts item loop
-  - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
-    name: "Projects Completed"
-    count: "125"
+  - icon: "fas fa-place-of-worship" #https://fontawesome.com/v5.15/icons
+    name: "Years in our Current Building"
+    count: "150"
 
   # funfacts item loop
-  - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
-    name: "Combined Projects"
-    count: "200"
+  - icon: "fas fa-user" #https://fontawesome.com/v5.15/icons
+    name: "Number of Pastors in the last six decades"
+    count: "3"
+
+  # funfacts item loop
+  - icon: "fas fa-child" #https://fontawesome.com/v5.15/icons
+    name: "Number of Years providing Youth Club"
+    count: "55"
 
   testimonial_slider:
   # testimonial item loop
