@@ -102,20 +102,16 @@
         {{ with .description }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
       </div>
     </div>
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <ul class="counter-box clearfix">
-            {{ range .funfact_item }}
-            <li class="counter-item">
-              <i class="{{ .icon }}"></i>
-              <h4 class="count" data-count="{{ .count }}">0</h4>
-              <span>{{ .name | markdownify }}</span>
-            </li>
-            {{ end }}
-          </ul>
+    <div class="row counter-box text-center mt-50">
+      {{ range .funfact_item }}
+      <div class="col-md-2">
+        <div class="counter-item">
+          {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
+          {{ with .count }}<h4 class="count" data-count="{{ . }}">0</h4>{{ end }}
+          {{ with .name }}<span>{{ . }}</span>{{ end }}
         </div>
       </div>
+      {{ end }}
     </div>
   </div>
 </section>
