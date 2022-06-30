@@ -8,7 +8,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <div class="about-img">
+        <div>
           <img class="img-responsive" src="{{ .image | relURL }}">
         </div>
       </div>
@@ -56,54 +56,31 @@
 {{ end }}
 {{ end }}
 
-<section class="testimonial section-sm">
+{{ with .Params.second }}
+{{ if .enable }}
+<section class="service-about section">
   <div class="container">
     <div class="row">
-      {{ if .Params.testimonial.enable }}
-      {{ with .GetPage "/" }}
       <div class="col-md-6">
-        <div class="testimonial-carousel text-center">
-          <div class="testimonial-slider owl-carousel">
-            {{ range .Params.funfacts.testimonial_slider }}
-            <div>
-              <i class="fas fa-quote-left"></i>
-              {{ with .content }}<p>"{{ . | markdownify }}"</p>{{ end }}
-              <div class="user">
-                {{ with .image }}<img src="{{ . | relURL }}" alt="client">{{ end }}
-                <p><span>{{ .name | markdownify }}</span> {{ .designation | markdownify }}</p>
-              </div>
-            </div>
-            {{ end }}
-          </div>
-        </div>
+        {{ with .title }}<h2>{{ . | markdownify }}</h2>{{ end }}
+        {{ with .content }}<div class="mt-30">{{ . | $.Page.RenderString (dict "display" "block") }}</div>{{ end }}
       </div>
-      {{ end }}
-      {{ end }}
-
-      {{ with .Params.mission_vision }}
-      {{ if .enable }}
+      {{ with .image -}}
       <div class="col-md-6">
-        <div class="tabCommon">
-          <ul class="nav nav-tabs">
-            {{ range $index, $elements := .tabs }}
-            <li {{ if eq $index 0 }} class="active" {{ end }}><a href="#{{ .name | urlize }}"
-                data-toggle="tab">{{ .name }}</a></li>
-            {{ end }}
-          </ul>
-          <div class="tab-content">
-            {{ range $index, $elements := .tabs }}
-            <div id="{{ .name | urlize }}" class="tab-pane fade {{ if eq $index 0 }} active in {{ end }}">
-              {{ .content | $.Page.RenderString (dict "display" "block") }}
-            </div>
-            {{ end }}
-          </div>
-        </div>
+        <img class="img-responsive" src="{{ . | relURL }}">
       </div>
-      {{ end }}
-      {{ end }}
+      {{- end }}
     </div>
   </div>
 </section>
+{{ end }}
+{{ end }}
+
+<!-- Call to action -->
+{{ if .Params.times.enable }}
+{{ partial "times.html" . }}
+{{ end }}
+<!-- /Call to action -->
 
 <!-- Call to action -->
 {{ if .Params.cta.enable }}

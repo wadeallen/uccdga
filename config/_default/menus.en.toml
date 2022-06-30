@@ -12,14 +12,9 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Leaders"
-url = "leader/"
+name = "Staff"
+url = "staff/"
 weight = 3
-
-[[main]]
-name = "Blog"
-url = "blog/"
-weight = 4
 
 [[main]]
 name = "Calendar"
@@ -33,15 +28,15 @@ hasChildren = true
 
   [[main]]
   parent = "More"
-  name = "Family Ministries"
-  url = "family/"
+  name = "Worship"
+  url = "worship/"
   weight = 1
 
   [[main]]
   parent = "More"
-  name = "FAQ"
-  url = "faq/"
-  weight = 3
+  name = "Family Ministries"
+  url = "family/"
+  weight = 2
   
 [[main]]
 name = "Contact"
@@ -56,19 +51,19 @@ url = "about/"
 weight = 2
 
 [[footer]]
-name = "Leaders"
-url = "leader/"
+name = "Staff"
+url = "staff/"
 weight = 3
 
 [[footer]]
-name = "Blog"
-url = "blog/"
+name = "Worship"
+url = "worship/"
 weight = 4
 
 [[footer]]
-name = "FAQ"
-url = "faq/"
-weight = 6
+name = "Family Ministries"
+url = "family/"
+weight = 5
 
 [[footer]]
 name = "Contact"
