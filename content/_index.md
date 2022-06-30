@@ -78,7 +78,7 @@ funfacts:
   description: "The United Church has a long history in the community of Canandaigua. 
 
 
-  In a world that is quicky changing, The United Church values the sability and traditions it has practiced for generations."
+  In a world that is quicky changing, The United Church values the stability and tradition."
   funfact_item:
   # funfacts item loop
   - icon: "fas fa-church" #https://fontawesome.com/v5.15/icons
