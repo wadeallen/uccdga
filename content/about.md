@@ -40,9 +40,9 @@ There are no special visitor tags or time when we have visitors stand, so don't 
 
 #### What is the service like?
 
-When you enter the sanctuary, you will be warmly greeted and handed a bulletin that contains news, announcements, worship service outline, Scripture references, sermon title, and more.  Feel free to sit anywhere you are comfortable.
+When you enter the sanctuary, you will be warmly greeted and handed a bulletin that contains news, announcements, [worship](/worship) service outline, Scripture references, sermon title, and more.  Feel free to sit anywhere you are comfortable.
 
-#### Here's what you can expect at a typical worship service:
+#### Here's what you can expect at a typical [worship](/worship) service:
 
 - Announcements and greeting one another
 - Singing songs and hymns
@@ -67,12 +67,12 @@ Most people wear casual business attire. Some wear jeans or shorts with t-shirts
 
 #### What about my kids?
 
-**Birth - 5-year-olds** may be taken to the nursery before service begins, after the Children's Message, or at any time during the service that the parents feel it is necessary. If you would like your children to attend worship services with you, they are more than welcome in the sanctuary during the service.
+**Birth - 5-year-olds** may be taken to the nursery before service begins, after the Children's Message, or at any time during the service that the parents feel it is necessary. If you would like your children to attend [worship](/worship) services with you, they are more than welcome in the sanctuary during the service.
 
-**K - 2nd grade** kids can attend part of the worship service with their family and then can be dismissed after the Children's Message for Children's Time (during the 11:00am service only; also offered during our 9:30am summer worship service). Children's Time (a.k.a. Children's Church) is offered each Sunday except for the first Sunday of the month, when our church serves communion. Children's Time is also not offered on weekends that are near holidays. Children in this age range are welcome to stay with their family for the entire worship service on any Sunday.
+**K - 2nd grade** kids can attend part of the [worship](/worship) service with their family and then can be dismissed after the Children's Message for Children's Time (during the 11:00am service only; also offered during our 9:30am summer [worship](/worship) service). Children's Time (a.k.a. Children's Church) is offered each Sunday except for the first Sunday of the month, when our church serves communion. Children's Time is also not offered on weekends that are near holidays. Children in this age range are welcome to stay with their family for the entire worship service on any Sunday.
 
 **Middle School and High School** students (6th - 12th grade) 
-Middle School and High School students are encouraged to join us during the worship service with their families or sit together with other students. 
+Middle School and High School students are encouraged to join us during the [worship](/worship) service with their families or sit together with other students. 
 
 Sunday School for all ages at 9:45am
 We have Sunday school classes between services for all ages. These classes run from mid-September until mid-May.
@@ -87,7 +87,7 @@ The United Church connects to two denominations and other local and national min
 
 ### Presbyterians
 
-The United Church is a part of the Presbyterian Church USA through the Presbytery of Geneva. As a Presbyterian church, the church looks to the Book of Order and the Book of Confessions. Presbyterian influence is evident in our structured, traditional worship service. However, The United Church does not align with PC-USA on several issues. If you would be interested in learning more about these differences, don't hesitate to contact the Pastor.
+The United Church is a part of the Presbyterian Church USA through the Presbytery of Geneva. As a Presbyterian church, the church looks to the Book of Order and the Book of Confessions. Presbyterian influence is evident in our structured, traditional [worship](/worship) service. However, The United Church does not align with PC-USA on several issues. If you would be interested in learning more about these differences, don't hesitate to contact the Pastor.
 
 ### Baptists
 
@@ -113,7 +113,7 @@ A called Pastor, Professional Staff Members, and Lay Leaders (Church Officers an
 
 The Official Board includes the Pastor (Teaching Elder) and Ruling Elders. Ruling Elders must be members of solid faith, dedicated discipleship and demonstrate love for Jesus Christ as Savior and Lord. Ruling Elders are authorized to serve communion (first Sunday of each month, Maundy Thursday, Christmas Eve).
 
-The Board of Stewards includes Stewards/Deacons. Their primary function is to maintain connections with our Special Members. They also manage the Stewards Assistance Fund, direct a card ministry, organize special remembrances, organize greeters for Sunday worship services, and decorate the church for particular seasons.
+The Board of Stewards includes Stewards/Deacons. Their primary function is to maintain connections with our Special Members. They also manage the Stewards Assistance Fund, direct a card ministry, organize special remembrances, organize greeters for Sunday [worship](/worship) services, and decorate the church for particular seasons.
 
 The Board of Trustees is responsible for the financial and property management of the church.
 
