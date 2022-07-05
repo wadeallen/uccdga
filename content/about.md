@@ -14,13 +14,13 @@ We are made up of two denominations, Presbyterian and American Baptist.
 
 We are a united community of faith with a mission that all might come to know, love, and follow Jesus Christ as their personal Lord and Savior. We are a growing fellowship of believers who love God and love others. You are welcome to visit our church anytime!
 
-Children's Time (children's church) is offered during the 11:00am service after the Children's Message on most Sundays for children in Kindergarten through 5th grade. On Communion Sundays when Children's Time is not offered, Worship bags are available for any children to use during the Worship service.
+Children's Time (children's church) is offered during the 11:00am service after the Children's Message on most Sundays for children in Kindergarten through 5th grade. On Communion Sundays when Children's Time is not offered, [Worship](/worship) bags are available for any children to use during the [Worship](/worship) service.
 
 We offer nursery care during our 8:45am and 11:00am Sunday services. All adults in the nursery have been background checked. Teens who volunteer in the nursery must be paired with an adult. We have a pager system for parents to utilize in case their child needs a diaper change. All nursery toys and furniture are cleaned/sanitized regularly. 
 
 Sunday School for children is offered in-person on Sunday mornings at 9:45am. Sunday School for adults is offered in-person and via Zoom on Sunday mornings at 9:45am. Our Sunday School year runs from mid-September through mid-May. Please contact Deb (Children), Chelsea (Youth), or Paul (Adults) for more information.
 
-We have two Worship services at 8:45am and 11:00am. These services run every Sunday from the Sunday following Labor Day until the Sunday prior to Memorial Day weekend. We have Sunday School for all ages at 9:45am from mid-September until mid-May.  From the Sunday of Memorial Day weeknd until the Sunday of Labor Day weekend, we have one Worship service at 9:30am.  We have nursery care available during all Worship services. 
+We have two [Worship](/worship) services at 8:45am and 11:00am. These services run every Sunday from the Sunday following Labor Day until the Sunday prior to Memorial Day weekend. We have Sunday School for all ages at 9:45am from mid-September until mid-May.  From the Sunday of Memorial Day weeknd until the Sunday of Labor Day weekend, we have one [Worship](/worship) service at 9:30am.  We have nursery care available during all [Worship](/worship) services. 
 
 Our parking lot is most easily accessed from Gibson Street. Please note that our church also has permission to park in the parking lots behind the 4 buildings on Main St to the south of our church building. Parallel parking is available on Main Street and Gibson Street.
 
