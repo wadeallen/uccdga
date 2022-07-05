@@ -32,7 +32,7 @@ We hope the questions and answers below help you to know what to expect as a vis
 
 #### What time should I arrive?
 
-We recommend parking your car about 10 minutes prior to the service time. This will allow you to walk to the sanctuary, be greeted, and find a seat. Also, if you have children, they may worship with you or you can take them to our nursery. If you plan to use the nursery, you may want to add a little extra time to get your little ones settled before the service. 
+We recommend parking your car about 10 minutes prior to the service time. This will allow you to walk to the sanctuary, be greeted, and find a seat. Also, if you have children, they may [worship](/worship) with you or you can take them to our nursery. If you plan to use the nursery, you may want to add a little extra time to get your little ones settled before the service. 
 
 #### Will I be singled out as a visitor?
 
