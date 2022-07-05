@@ -22,26 +22,48 @@ url = "https://uccdga.churchcenter.com/calendar"
 weight = 5
 
 [[main]]
+name = "Worship"
+url = "worship/"
 weight = 6
-name = "More"
+
+[[main]]
+weight = 7
+name = "Grow"
 hasChildren = true
 
-  [[main]]
-  parent = "More"
-  name = "Worship"
-  url = "worship/"
-  weight = 1
+    [[main]]
+    parent = "Grow"
+    name = "Children"
+    url = "children/"
+    weight = 1
 
-  [[main]]
-  parent = "More"
-  name = "Family Ministries"
-  url = "family/"
-  weight = 2
+    [[main]]
+    parent = "Grow"
+    name = "Youth"
+    url = "/youth"
+    weight = 2
+
+    [[main]]
+    parent = "Grow"
+    name = "Adult"
+    url = "adult/"
+    weight = 3  
+
+[[main]]
+name = "Reach"
+url = "reach/"
+weight = 8
+
+[[main]]
+name = "Care"
+url = "care/"
+weight = 9
+
   
 [[main]]
 name = "Contact"
 url = "contact/"
-weight = 7
+weight = 10
 
 
 # footer menu

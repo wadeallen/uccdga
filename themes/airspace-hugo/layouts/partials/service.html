@@ -10,7 +10,7 @@
     </div>
     <div class="row">
       {{ range .service_item }}
-      <a href="{{ .name | urlize }}">
+      <a href="/{{ .name | urlize }}">
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <i class="{{ .icon }}"></i>
