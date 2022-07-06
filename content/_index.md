@@ -73,7 +73,7 @@ times:
 
 ############################# Funfacts ###############################
 funfacts:
-  enable: true
+  enable: false
   title: "Longstanding Congregation in Canandaigua"
   description: "The United Church has a long history in the community of Canandaigua. 
 
@@ -94,6 +94,11 @@ funfacts:
   - icon: "fas fa-place-of-worship" #https://fontawesome.com/v5.15/icons
     name: "Years in our Current Building"
     count: "150"
+
+      # funfacts item loop
+  - icon: "fas fa-place-of-worship" #https://fontawesome.com/v5.15/icons
+    name: "Years as a United Church"
+    count: "70"
 
   # funfacts item loop
   - icon: "fas fa-user" #https://fontawesome.com/v5.15/icons

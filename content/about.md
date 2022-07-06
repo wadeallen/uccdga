@@ -141,17 +141,23 @@ The United Church family allows for diversity in convictions and interpretations
 
 WE BELIEVE THAT:
 
-    GOD lives in three persons:  Father, Son and Holy Spirit.
-    JESUS CHRIST is fully God and fully human; He died for our sins, rose, ascended and shall come again.
-    SCRIPTURE is the unique and authoritative Word of God, in human language.
-    HUMANITY though capable of good, is sinful, and that our only salvation and hope is in Christ alone, through personal faith in Him.
-    THE CHURCH is the community of believers, the body of Christ, empowered by the Holy Spirit to spread the Good News to all the world.
+**GOD** lives in three persons:  Father, Son and Holy Spirit.
+
+**JESUS CHRIST** is fully God and fully human; He died for our sins, rose, ascended and shall come again.
+
+**SCRIPTURE** is the unique and authoritative Word of God, in human language.
+
+**HUMANITY** though capable of good, is sinful, and that our only salvation and hope is in Christ alone, through personal faith in Him.
+
+**THE CHURCH** is the community of believers, the body of Christ, empowered by the Holy Spirit to spread the Good News to all the world.
 
 WE ARE CALLED TO:
 
-    CONFESS Jesus Christ as Lord and Savior
-    WORSHIP God publicly and corporately.
-    PROCLAIM to all the world the Good News, reflecting the love of Jesus Christ in the manner in which we live.
+**CONFESS** Jesus Christ as Lord and Savior
+
+**WORSHIP** God publicly and corporately.
+
+**PROCLAIM** to all the world the Good News, reflecting the love of Jesus Christ in the manner in which we live.
 
 
 Presbyterians celebrate eleven confessional statements in the Book of Order including the Nicene Creed and the Apostles Creed.
