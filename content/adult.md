@@ -1,7 +1,7 @@
 ---
 title: "Adult Ministries"
 description: "Ministry for Adults at The United Church"
-bg_image: "images/boy-jesus.jpg"
+bg_image: "images/symbols.jpg"
 layout: "service"
 draft: false
 

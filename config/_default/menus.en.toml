@@ -7,17 +7,30 @@ url = ""
 weight = 1
 
 [[main]]
-name = "About"
-url = "about/"
 weight = 2
+name = "About"
+hasChildren = true
+
+    [[main]]
+    parent = "About"
+    name = "FAQs"
+    url = "about/"
+    weight = 2
+
+    [[main]]
+    parent = "About"
+    name = "Staff"
+    url = "staff/"
+    weight = 1
+
+    [[main]]
+    parent = "About"
+    name = "History"
+    url = "history/"
+    weight = 1
 
 [[main]]
-name = "Staff"
-url = "staff/"
 weight = 3
-
-[[main]]
-weight = 4
 name = "News"
 hasChildren = true
 

@@ -1,9 +1,9 @@
 ---
-title: "Carolyn Russell"
-description: "Church Secretary and Financial Secretary"
-weight: 6
+title: "Kateri Andress"
+description: "Organist"
+weight: 9
 draft: false
-image : "images/people/carolyn-russell.jpg"
+image : "images/people/kateri-andress.jpg"
 bg_image: "images/stained-blue.jpg"
 category: [ "Staff"]
 ---

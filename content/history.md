@@ -1,14 +1,14 @@
 ---
-title: "Care"
-description: "Ministry for Children, Youth and Adults at The United Church"
-bg_image: "images/care.jpg"
+title: "History"
+description: "Ministry for Youth at The United Church"
+bg_image: "images/1871.jpg"
 layout: "service"
 draft: false
 
 ########################### about service #############################
 about:
   enable : true
-  title : "About Family Ministries at The United Church"
+  title : "The History of The United Church"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis odit, optio
           cum! Accusantium numquam ab, natus excepturi architecto earum ipsa aliquam, illum, omnis rerum, eveniet
           officia nihil. Eum quod iure nulla, soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit
@@ -45,7 +45,7 @@ featured_service:
 
 ############################# Service ###############################
 service:
-  enable : true
+  enable : false
   title : "Who We are at The United Church"
   description : "The United Church is a strong community of Christians who seek to glorify God. </br> We seek to do this in a number of ways."
   service_item:
@@ -91,6 +91,6 @@ service:
 
 ############################# call to action #################################
 cta:
-  enable : true
+  enable : false
   # call to action content comes from "_index.md"
 ---

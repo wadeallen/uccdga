@@ -12,7 +12,7 @@ logo_text = "The United Church"
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
-author = "Themefisher"
+author = "The United Church"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
@@ -25,7 +25,7 @@ location = """
 Canandaigua, New York 14424
 """
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "test copyright"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # google tag manager, see https://developers.google.com/tag-manager/
@@ -45,7 +45,6 @@ use_recaptcha = true
 action = "#"
 # Image on custom success page `/message_sent.html`
 success_image = "images/paper-plane.svg"
-
 
 # Preloader
 [preloader]
@@ -110,24 +109,24 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.facebook.com/unitedchurchcdga"
 
-[[social]]
-title = "twitter"
-icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+# [[social]]
+# title = "twitter"
+# icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "#"
 
-[[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+# [[social]]
+# title = "instagram"
+# icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "#"
 
-[[social]]
-title = "github"
-icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+# [[social]]
+# title = "github"
+# icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "#"
 
-[[social]]
-title = "linkedin"
-icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+# [[social]]
+# title = "linkedin"
+# icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "#"

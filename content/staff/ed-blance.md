@@ -1,9 +1,9 @@
 ---
-title: "Carolyn Russell"
-description: "Church Secretary and Financial Secretary"
-weight: 6
+title: "Ed Blance"
+description: "Projects Coordinator"
+weight: 8
 draft: false
-image : "images/people/carolyn-russell.jpg"
+image : "images/people/ed-blance.jpg"
 bg_image: "images/stained-blue.jpg"
 category: [ "Staff"]
 ---
