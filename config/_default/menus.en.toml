@@ -17,9 +17,15 @@ url = "staff/"
 weight = 3
 
 [[main]]
-name = "Calendar"
-url = "https://uccdga.churchcenter.com/calendar"
-weight = 5
+weight = 4
+name = "News"
+hasChildren = true
+
+    [[main]]
+    parent = "News"
+    name = "Calendar"
+    url = "https://uccdga.churchcenter.com/calendar"
+    weight = 1
 
 [[main]]
 name = "Worship"
