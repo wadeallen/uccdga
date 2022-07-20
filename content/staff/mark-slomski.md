@@ -3,7 +3,7 @@ title: "Mark Slomski"
 description: "Youth Director"
 weight: 5
 draft: false
-image : "images/people/blank.jpg"
+image : "images/people/mark-slomski.jpg"
 bg_image: "images/stained-blue.jpg"
 category: [ "Staff", "Director" ]
 ---
