@@ -20,12 +20,12 @@ Beginning the weekend after Labor Day, we will gather in two worship services ea
   button:
     enable : true
     label : "Watch Worship Service Online"
-    link : "#"
+    link : "https://www.youtube.com/channel/UC4EGmR2PxRI1SYoXQyveGZw"
 
 ############################### Secondary###############################
 second:
   enable : true
-  image : "images/worship.jpg"
+  image : "images/childrens-sermon.jpg"
   title : "Children in Worship"
   content : "Nursery care for infants through 5-year-olds is provided during all Sunday Services. All adult volunteers in the nursery are background checked. Teen volunteers are only allowed to serve with an adult. Nursery toys are regularly disinfected to help keep our children healthy.
 

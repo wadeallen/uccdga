@@ -9,14 +9,13 @@ draft: false
 about:
   enable : true
   title : "The History of The United Church"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis odit, optio
-          cum! Accusantium numquam ab, natus excepturi architecto earum ipsa aliquam, illum, omnis rerum, eveniet
-          officia nihil. Eum quod iure nulla, soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit
-          maiores sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis doloribus natus nemo
-          id quod illum aut culpa perspiciatis consequuntur tempore? Facilis nam vitae iure quisquam eius harum
-          consequatur sapiente assumenda, officia voluptas quas numquam placeat, alias molestias nisi laudantium
-          nesciunt perspiciatis suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga dolore
-          officia adipisci neque!"
+  content : "Both Presbyterians and American Baptists have a long history in the Canandaigua area.  The Presbyterian Church was organized in 1870, and the present sanctuary building was dedicated in 1872.  The American Baptist Church has an even longer history, with three different church buildings having been erected--the first in 1835.
+
+
+On December 13, 1942, the First Baptist Church of Canandaigua was totally destroyed by fire.  The Baptists held services in various buildings around town for five years.  The Presbyterian Church offered to have them worship jointly.  The offer was accepted May 11, 1947.  In 1961, the name was formally changed to The United Church (Presbyterian-American Baptist) of Canandaigua, New York.
+
+
+Since 1966, The United Church has only had three pastors. Rev. Fred Magley served from 1966-1989.  Rev. Dr. Jim Kerr was called as Pastor in 1991, retiring in 2018. In 2021, Rev. Dr. Wade Allen began serving as Pastor."
   image : "images/company/company-group-pic.jpg"
 
 
@@ -25,19 +24,19 @@ featured_service:
   enable : true
   service_item:
     # featured service item loop
-    - name : "Interface Design"
+    - name : "Baptist Church"
       icon : "fas fa-flask"
       color : "primary"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
     # featured service item loop
-    - name : "Product Branding"
+    - name : "Presbyterian Church"
       icon : "fas fa-leaf"
       color : "primary-dark"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
     # featured service item loop
-    - name : "Game Development"
+    - name : "The United Church"
       icon : "fas fa-lightbulb"
       color : "primary-darker"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
@@ -92,5 +91,4 @@ service:
 ############################# call to action #################################
 cta:
   enable : false
-  # call to action content comes from "_index.md"
 ---
