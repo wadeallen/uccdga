@@ -40,6 +40,12 @@ hasChildren = true
     url = "https://uccdga.churchcenter.com/calendar"
     weight = 1
 
+    [[main]]
+    parent = "News"
+    name = "Streams"
+    url = "stream/"
+    weight = 1
+
 [[main]]
 name = "Worship"
 url = "worship/"
