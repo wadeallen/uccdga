@@ -6,18 +6,15 @@
 {{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") (eq .Section "stream")}}
 
 <div class="page-wrapper">
+<section class="portfolio-single-page section-sm">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         {{ $paginator := .Paginate .Data.Pages -}}
         {{ range $paginator.Pages -}}
-        <div class="post">
-          <h3 class="post-title"><a href="{{ .RelPermalink }}">{{ time.Format ":date_long" .PublishDate }}</a></h3>
-          <div class="post-meta">
-            <ul>
-              <li> </li>
-            </ul>
-          </div>
+        <div class="stream">
+          <h4>{{ time.Format ":date_long" .PublishDate }}</h4>
+          <span><i class="fas fa-user">test</i></span>
         </div>
         {{- end }}
 
@@ -86,6 +83,7 @@
       </div>
     </div>
   </div>
+</section>
 </div>
 
 <!-- regular page -->

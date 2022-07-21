@@ -2,36 +2,23 @@
 
 {{ partial "stream-title.html" . }}
 
-<!-- checking blog -->
-{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") (eq .Section "stream") }}
+{{ $data := index site.Data site.Language.Lang }}
 
-<section class="page-wrapper">
+<section class="portfolio-single-page section-sm">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <div class="post post-single">
-          <h2 class="post-title">Worship Service</h2>
-          <div class="post-meta">
-            <ul>
-              <li><i class="ion-calendar"></i> {{ time.Format ":date_long" .PublishDate }}</li>
-            </ul>
-          </div>
-
-
-
-          <div class="post-content post-excerpt">
-            {{ .Content }}
-          </div>
+        <div class="project-details">
+          <h4>Project Details</h4>
+          <ul>
+            {{ range .Params.information }}
+            <li><span>{{ .label }} :</span> <strong>{{ .info | markdownify }}</strong></li>
+            {{ end }}
+          </ul>
         </div>
       </div>
     </div>
   </div>
 </section>
-
-<!-- regular page -->
-{{ else -}}
-{{ .Render "default" }}
-{{- end }}
-<!-- /regular page -->
 
 {{ end }}

@@ -2196,3 +2196,14 @@ header .navbar-default .navbar-nav li a:hover {
             color: #000000; }
   .footer .copyright a {
     font-weight: 600; }
+
+.portfolio-single-page .stream h4 {
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 2px dashed #ACB9C4;
+  text-align: center;
+  display: inline-block; }
+
+.portfolio-single-page .stream span {
+  margin-left: 5em;
+  color: #838383; }
