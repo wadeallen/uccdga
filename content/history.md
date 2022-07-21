@@ -25,19 +25,19 @@ featured_service:
   service_item:
     # featured service item loop
     - name : "Baptist Church"
-      icon : "fas fa-flask"
+      icon : "fas fa-church"
       color : "primary"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
     # featured service item loop
     - name : "Presbyterian Church"
-      icon : "fas fa-leaf"
+      icon : "fas fa-church"
       color : "primary-dark"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
     # featured service item loop
     - name : "The United Church"
-      icon : "fas fa-lightbulb"
+      icon : "fas fa-church"
       color : "primary-darker"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
