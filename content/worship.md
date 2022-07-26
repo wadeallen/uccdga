@@ -20,7 +20,7 @@ Beginning the weekend after Labor Day, we will gather in two worship services ea
   button:
     enable : true
     label : "Watch Worship Service Online"
-    link : "https://www.youtube.com/channel/UC4EGmR2PxRI1SYoXQyveGZw"
+    link : "https://uccdga.churchcenter.com/channels/12275"
 
 ############################### Secondary###############################
 second:

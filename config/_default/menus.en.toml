@@ -43,7 +43,7 @@ hasChildren = true
     [[main]]
     parent = "News"
     name = "Streams"
-    url = "stream/"
+    url = "https://uccdga.churchcenter.com/channels/12275"
     weight = 1
 
 [[main]]
