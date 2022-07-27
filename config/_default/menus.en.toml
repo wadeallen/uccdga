@@ -15,7 +15,7 @@ hasChildren = true
     parent = "About"
     name = "FAQs"
     url = "about/"
-    weight = 2
+    weight = 3
 
     [[main]]
     parent = "About"
@@ -27,7 +27,13 @@ hasChildren = true
     parent = "About"
     name = "History"
     url = "history/"
-    weight = 1
+    weight = 2
+
+    [[main]]
+    parent = "About"
+    name = "Giving"
+    url = "giving/"
+    weight = 4
 
 [[main]]
 weight = 3
