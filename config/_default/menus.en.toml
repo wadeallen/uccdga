@@ -114,6 +114,11 @@ url = "worship/"
 weight = 4
 
 [[footer]]
+name = "Giving"
+url = "giving/"
+weight = 7
+
+[[footer]]
 name = "Family Ministries"
 url = "grow/"
 weight = 5
